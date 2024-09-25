@@ -1,6 +1,6 @@
-Here’s a combined README that incorporates both the details of your custom Avalanche subnet `shreyablockchain` and the `MagicShowToken` smart contract:
 
----
+
+
 
 # Shreyablockchain - Custom Avalanche Subnet with MagicShowToken
 
